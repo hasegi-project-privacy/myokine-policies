@@ -186,7 +186,7 @@ Myokine("회사" 또는 "저희")는 귀하의 개인정보를 중요하게 생�
 - **개인정보 삭제 요구**
 - **회원 탈퇴 및 모든 데이터 삭제**
 
-- **연락처**: hasegi.project@gmail.com
+- **연락처**: hasegi.cs@gmail.com
 - **처리 기간**: 요청 접수 후 10일 이내 처리
 - **처리 결과**: 이메일로 회신
 
@@ -220,11 +220,11 @@ Myokine("회사" 또는 "저희")는 귀하의 개인정보를 중요하게 생�
 
 **개인정보 보호책임자**
 - 이름: Ryo
-- 이메일: hasegi.project@gmail.com
+- 이메일: hasegi.cs@gmail.com
 - 소속: HASEGI Inc.
 
 **고객센터**
-- 이메일: hasegi.project@gmail.com
+- 이메일: hasegi.cs@gmail.com
 
 ---
 
@@ -256,7 +256,7 @@ Myokine("회사" 또는 "저희")는 귀하의 개인정보를 중요하게 생�
 ---
 
 **HASEGI Inc.**
-**이메일**: hasegi.project@gmail.com
+**이메일**: hasegi.cs@gmail.com
 
 ---
 

@@ -42,5 +42,5 @@ December 20, 2025
 
 ## 📧 Contact
 - Privacy Officer: Irisin
-- Email: hasegi.project@gmail.com
+- Email: hasegi.cs@gmail.com
 - Organization: HASEGI Inc.
